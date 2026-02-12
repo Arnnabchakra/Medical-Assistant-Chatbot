@@ -8,6 +8,9 @@ A safe and intelligent **Medical Assistant Chatbot** that provides:
 Built using **LLMs (Groq)**, **Streamlit**, and **Python**.
 
 ---
+<h1 align="center">
+  <a href="https://medical-assistant-chatbot-arnnab.streamlit.app/">👉Live Demo👍</a>
+</h1>
 
 ## 🚀 Features
 
