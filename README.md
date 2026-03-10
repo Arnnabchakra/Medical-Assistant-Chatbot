@@ -1,4 +1,4 @@
-# 🩺 Medical Assistant Chatbot (Non-Diagnostic)C
+# 🩺 Medical Assistant Chatbot (Non-Diagnostic)
 
 A safe and intelligent **Medical Assistant Chatbot** that provides:
 - 💊 Medicine information & safety guidance
